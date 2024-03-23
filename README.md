@@ -14,7 +14,7 @@ I'm Aiden, an AI developer and researcher based in Canada. I mostly focus on nat
 ---
 
 ## My Projects
-#### [RAG Chatbot](https://github.com/b14ck-sun/chatbot-django)
+#### [LLM-based Chatbot with RAG](https://github.com/b14ck-sun/chatbot-django)
 [Work in Progress] A chatbot with retrieval augmented generation in Django. Using Langchain for RAG, Chroma for the vector database, and opensource LLMs, LLAMA 2 and Mixtral, as language models. 
 #### [Argument Summarization](https://github.com/b14ck-sun/arg-sum)
 This project aims to summarize opinions and comments (input) on a topic collected from social media into a list of sentences (output). The summary aims to cover all the unique aspects mentioned by different comments. The input for the model is a collection comments or tweets, and the summary itself is a short bullet point list of sentences.  
