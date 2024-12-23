@@ -15,7 +15,7 @@ I'm Aiden, an AI developer and researcher based in Canada. I mostly focus on nat
 
 ## My Projects
 #### [ZheroTax](https://github.com/b14ck-sun/narrative-demo)
-[Work in Progress] An AI powered tool for helping Candians automate the process generating tax appeals.
+An AI powered tool for helping Candians automate the process generating tax appeals.
 Check it out at [zherotaxappeals.com](https://zherotaxappeals.com/)
 #### [LLM-based Chatbot with RAG](https://github.com/b14ck-sun/chatbot-django-react)
 [Work in Progress] A chatbot with retrieval augmented generation in Django. Using Langchain for RAG, Chroma for the vector database, and opensource LLMs, LLAMA 2 and Mixtral, as language models. 
