@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Aiden, an AI developer and researcher based in Canada. I mostly focus on natural language processing, deep learning, and machine learning applications. I like the idea of integrating AI in our day to day lives and businesses, which is why I'm working in AI. Feel free to reach out to me.
+I'm Aiden, an AI developer and researcher based in Canada. I mostly focus on natural language processing, deep learning, and machine learning applications.
 
 ### Contact 
 <div id="badges">
