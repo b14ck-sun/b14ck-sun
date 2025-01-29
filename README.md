@@ -6,7 +6,7 @@ I'm Aiden, an AI developer and researcher based in Canada. I mostly focus on nat
   <a href="https://www.linkedin.com/in/mohamad-khosravani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:mohamad.khosravani97@gmail.com">
+  <a href="mailto:aiden.kh97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
