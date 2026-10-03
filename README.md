@@ -1,5 +1,4 @@
 ## I hope AI takes over my job so I don't have to work anymore.
----
 ### Contact 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamad-khosravani/">
