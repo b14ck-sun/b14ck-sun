@@ -1,6 +1,5 @@
-## Hey there, bud
-I'm Aiden, and I hope AI takes over my job so I don't have to work anymore.
-
+## I hope AI takes over my job so I don't have to work anymore.
+---
 ### Contact 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamad-khosravani/">
@@ -11,7 +10,7 @@ I'm Aiden, and I hope AI takes over my job so I don't have to work anymore.
   </a>
 </div>
 
----
+
 <!--
 **b14ck-sun/b14ck-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
